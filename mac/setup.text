@@ -1,0 +1,7 @@
+step 1:check git installation
+open the termial and type following command 
+git --version
+ and if it displays git version in terminal git is already installed 
+otherwise
+brew install git 
+
