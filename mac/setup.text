@@ -5,3 +5,11 @@ git --version
 otherwise
 brew install git 
 
+step2:configure git 
+in terminal
+ set your username:
+git config --global user.name"yourname"
+set your email:
+git config --global user.email"youremail@gmail.com"
+confirm your configuration:
+git config --list
